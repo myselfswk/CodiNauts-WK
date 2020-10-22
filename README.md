@@ -2,4 +2,4 @@
 Using   HTML, CSS, JS & BootStrap
 
 ## CodiNauts-WK URL
-codinauts-wk-bw.surge.sh
+http://codinauts-wk-bw.surge.sh/
