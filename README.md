@@ -1,5 +1,5 @@
 ## CodiNauts-WK
-Using   HTML, CSS, JS & BootStrap  (YouTube Based Project)
+Using   HTML, CSS, JavaScript & BootStrap  (YouTube Based Project)
 
 Up-Coming Features: Database Using Firebase
 
